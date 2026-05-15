@@ -1,12 +1,26 @@
-# React + Vite
+# 🎨 Color Palette Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React application that generates a palette of **5 random HEX colors**.  
+Click the **Shuffle** button to instantly create a completely new color palette.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✨ Generate random HEX colors  
+🎲 Shuffle palettes instantly  
+📱 Responsive layout  
+⚛️ Built using React Hooks  
+🎨 Clean and minimal UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- Inline CSS Styling
+
+---
+
+<img width="1065" height="338" alt="Screenshot 2026-05-15 at 12 25 32 PM" src="https://github.com/user-attachments/assets/8377b39f-0e5a-4355-83af-249a5041668c" />
